@@ -7,6 +7,8 @@ function Light() {
         setSwitch(toggleState)
     }
 
+    // Hello
+
 
     return <div>
         <div className="light" style={{ backgroundColor: !lightSwitch ? 'grey' : 'red' }}>
