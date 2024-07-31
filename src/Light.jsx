@@ -25,6 +25,7 @@ function Light() {
 
   return (
     <div>
+      <div className="d-flex flex-column align-items-center">
       <div
         className="light"
         style={{
@@ -97,6 +98,7 @@ function Light() {
         >
           +
         </button>
+      </div>
       </div>
     </div>
   );
