@@ -3,3 +3,12 @@
   height: 200px;
   border-radius: 100%;
 }
+
+/* .switchButton:focus {
+
+} */
+
+.btn-outline-primary:focus {
+  color: white;
+  background: #0d6efd;
+}

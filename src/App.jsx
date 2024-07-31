@@ -1,5 +1,5 @@
 import "bootstrap/dist/css/bootstrap.min.css"
-import Bulb from "./Bulb"
+// import Bulb from "./Bulb"
 import "./App.css"
 import Light from "./Light"
 function App() {
